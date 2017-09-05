@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Edmilson David
+ * @author Armano
  */
 public class converterDecimalBinario {
     

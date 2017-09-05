@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author David
+ * @author Armano
  */
 public class NumeroDaOcorrencia {
       

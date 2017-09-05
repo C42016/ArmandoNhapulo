@@ -7,7 +7,7 @@ package Recursividade;
 
 /**
  *
- * @author David
+ * @author Armano
  */
 public class PermutacaoAlfabeto {
     
