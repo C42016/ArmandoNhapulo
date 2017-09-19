@@ -10,6 +10,7 @@ import javax.swing.JOptionPane;
 /**
  *
  * @author Armano
+ * o metodo  faz o calcula de NumeroDaOcorrencia 
  */
 public class NumeroDaOcorrencia {
       

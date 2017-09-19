@@ -10,6 +10,7 @@ import javax.swing.JOptionPane;
 /**
  *
  * @author Armano
+ * o medito  faz a soma de algorismo
  */
 public class somarAlgarismo {
     
